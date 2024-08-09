@@ -1,5 +1,5 @@
-name: dice_project
-description: "A new Flutter project."
+name: dice_rolling_game
+description: "A simple Flutter application with Stateful Widget"
 
 publish_to: "none"
 version: 1.0.0+1
